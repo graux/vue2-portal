@@ -1,0 +1,25 @@
+{
+  "name": "vue2-portal",
+  "version": "0.0.1",
+  "description": "Portal Component for Vue.js (2.x)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rovak/vue2-portal.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "Roy van Kaathoven",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rovak/vue2-portal/issues"
+  },
+  "homepage": "https://github.com/Rovak/vue2-portal#readme",
+  "dependencies": {
+    "vue": "latest"
+  }
+}
